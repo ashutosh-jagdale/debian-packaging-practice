@@ -1,2 +1,4 @@
 # debian-packaging-practice
-Experiments and notes while learning Debian packaging using .deb control files and CLI tools.
+
+This repository contains a sample `.deb` package for a simple Hello World CLI tool.
+

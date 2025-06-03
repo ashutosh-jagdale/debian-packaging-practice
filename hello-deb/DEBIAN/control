@@ -1,0 +1,8 @@
+Package: hello
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Ashutosh Jagdale <your.email@example.com>
+Description: A simple Hello World CLI package
+ This is a basic Debian package for demonstration purposes.
